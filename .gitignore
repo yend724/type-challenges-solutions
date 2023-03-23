@@ -1,0 +1,28 @@
+# MacOS system files that should not be committed
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Node.js related files and folders
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Compiled output
+dist/
+build/
+*.min.js
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# IDEs and editors
+.idea/
+.vscode/
