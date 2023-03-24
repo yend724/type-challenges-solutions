@@ -14,7 +14,7 @@ questions:
 
 https://github.com/type-challenges/type-challenges/blob/main/questions/{{ inputs.value }}/README.ja.md
 
-<a href="https://tsch.js.org/{n}/play/ja" target="_blank"><img src="https://img.shields.io/badge/挑戦する-3178c6?logo=typescript&logoColor=white" alt="挑戦する"/></a>
+<a href="https://tsch.js.org/{{ replace(inputs.value, "-.+", "") | replace "0+" "" }}/play/ja" target="_blank"><img src="https://img.shields.io/badge/挑戦する-3178c6?logo=typescript&logoColor=white" alt="挑戦する"/></a>
 
 ## 例
 
