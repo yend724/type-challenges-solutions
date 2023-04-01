@@ -23,8 +23,8 @@
 
 <a href="./questions/00002-medium-return-type/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBGet%20Return%20Type-d9901a" alt="2・Get Return Type"/></a>
 <a href="./questions/00003-medium-omit/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-3%E3%83%BBOmit-d9901a" alt="3・Omit"/></a>
-<!-- <a href="./questions/00008-medium-readonly-2/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
-<a href="./questions/00009-medium-deep-readonly/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
+<a href="./questions/00008-medium-readonly-2/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
+<!-- <a href="./questions/00009-medium-deep-readonly/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
 <a href="./questions/00010-medium-tuple-to-union/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-10%E3%83%BBTuple%20to%20Union-d9901a" alt="10・Tuple to Union"/></a>
 <a href="./questions/00012-medium-chainable-options/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-12%E3%83%BBChainable%20Options-d9901a" alt="12・Chainable Options"/></a>
 <a href="./questions/00015-medium-last/README.ja.md" target="_blank"><img src="https://img.shields.io/badge/-15%E3%83%BBLast%20of%20Array-d9901a" alt="15・Last of Array"/></a>
