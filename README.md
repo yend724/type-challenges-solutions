@@ -2,7 +2,6 @@
 
 [type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.md)の解答集。
 
-
 ## 初級
 
 <a href="./00004-easy-pick/README.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
