@@ -1,6 +1,6 @@
 # type-challenges-solutions
 
-[type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.md)の解答集。
+[YEND](https://twitter.com/yend724)の[type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.md)解答集。
 
 ## 初級
 
